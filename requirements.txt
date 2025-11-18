@@ -1,0 +1,9 @@
+
+flask
+flask-cors
+transformers
+# Note: torch is a large library. For CUDA (NVIDIA GPU) support, you might need a specific version.
+# See https://pytorch.org/get-started/locally/ for details.
+torch
+accelerate
+sentencepiece
